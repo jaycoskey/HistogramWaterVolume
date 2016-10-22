@@ -1,5 +1,5 @@
 # HistogramWaterVolume
-Summary: Determine volume of water that a 3D column histogram can hold.
+**Summary:** Determine volume of water that a 3D column histogram can hold.
 
 There are several websites that describe a programming challenge: Given a 2D column histogram,  image water being poured over the top of that histogram.
 If the histogram is high in the middle and descends toward each edge, then all the water will flow off the histogram, leaving none behind.
